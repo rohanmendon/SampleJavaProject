@@ -28,3 +28,7 @@ Commands to run:
 3) mvn tomcat:run
 4) http://localhost:8080/my-webapp/welcome should come up
 ```
+
+Built on
+------------------
+Travis CI [link](https://travis-ci.org/rohanmendon/SampleJavaProject)
