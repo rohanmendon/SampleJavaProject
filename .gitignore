@@ -3,3 +3,8 @@
 #Eclipse IDE
 .classpath
 .project
+
+#Intellij IDE
+*.iml
+*.ipr
+*.iws
